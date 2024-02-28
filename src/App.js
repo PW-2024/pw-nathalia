@@ -1,5 +1,5 @@
-import bolo from './Bolo-Prestigio-de-Festa.jpg';
-import './App.css';
+import bolo from "./Bolo-Prestigio-de-Festa.jpg";
+import "./App.css";
 
 function App() {
   return (
